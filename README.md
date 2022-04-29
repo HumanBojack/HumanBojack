@@ -7,6 +7,7 @@ After that, I took a **6 months hiatus** from coding. I hated that.
 
 I finally joined another course that started in the begining of 2022! This one is about data science and artificial intelligence. I'm so glad to be back in the coding world! You'll probably see a few new projects on here related to this :)
 
-## Where I like to have some code-related fun:
+## Socials:
 [![my codewars](https://www.codewars.com/users/HumanBojack/badges/small)](https://www.codewars.com/users/HumanBojack)
+![linkedin](https://img.shields.io/badge/Add_me-0077B5?logo=linkedin&style=for-the-badge&link=https://www.linkedin.com/in/romain-spychala/)
 ***
