@@ -10,5 +10,5 @@ I finally joined another course that started in the begining of 2022! This one i
 ## Socials:
 [![my codewars](https://www.codewars.com/users/HumanBojack/badges/small)](https://www.codewars.com/users/HumanBojack)
 [![linkedin](https://img.shields.io/badge/Add_me-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/romain-spychala/)
-[![monkeytype](https://monkeytype.azurewebsites.net/api/LastScore?code=Y03cpwoLH4bFX6bwh/2xbs4haBjhwxeLX4HQtVaDEhOQQ5wQgtDFkQ==)](https://monkeytype.com/profile/qdDfe0pRFsZek7vwOPVr5deTXJP2)
+[![monkeytype](https://monkeytype.azurewebsites.net/api/LastScore?code=7_cfjCcH1wcaftzWWjxgdVmAW6dkEe74e6jBLQ1QeeORAzFut7KLIA==)](https://monkeytype.com/profile/qdDfe0pRFsZek7vwOPVr5deTXJP2)
 ***
