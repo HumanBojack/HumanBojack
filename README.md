@@ -1,6 +1,6 @@
 # HumanBojack / Romain
 ## More about me:
-My name is **Romain**, I'm a **20 years old french developer** currently studying in my hometown.
+My name is **Romain**, I'm a **21 years old french developer** currently studying in my hometown.
 In the begining of 2021, I did a **6 month course on web developement** where I wrote code for the first time in my life. I especially liked back end part (*ruby on rails*).
 
 After that, I took a **6 months hiatus** from coding. I hated that.
