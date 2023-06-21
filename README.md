@@ -10,4 +10,5 @@ I finally joined another course that started in the begining of 2022! This one i
 ## Socials:
 [![my codewars](https://www.codewars.com/users/HumanBojack/badges/small)](https://www.codewars.com/users/HumanBojack)
 [![linkedin](https://img.shields.io/badge/Add_me-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/romain-spychala/)
+[![proton mail](https://img.shields.io/badge/mail_me-6d4aff?logo=protonmail&logoColor=f5f4f2&style=for-the-badge)](mailto:spyr.dev@proton.me)
 ***
